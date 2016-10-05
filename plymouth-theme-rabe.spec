@@ -57,7 +57,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(-,root,root,-)
-%doc README
+%doc README.md
 %dir %{_datadir}/plymouth/themes/%{themename}
 %{_datadir}/plymouth/themes/%{themename}/*.png
 %{_datadir}/plymouth/themes/%{themename}/%{themename}.plymouth

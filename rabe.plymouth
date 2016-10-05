@@ -1,0 +1,13 @@
+[Plymouth Theme]
+Name=RaBe
+Description=RaBe boot theme
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/rabe
+HorizontalAlignment=.5
+VerticalAlignment=.5
+Transition=none
+TransitionDuration=0.0
+BackgroundStartColor=0xffffff
+BackgroundEndColor=0xffffff
